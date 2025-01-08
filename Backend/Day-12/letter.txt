@@ -1,0 +1,13 @@
+There are three types of Dependencies
+1) Direct Dependencies
+2) Dev Dependencies
+3) Global Dependencies */
+
+
+
+/* To setup the Server
+1) npm init -y
+2) npm install express
+3) npm install -D @types/node   // -D means that the types is install in direct dependencies
+4) npm install nodemon          //This is used to start server at each and every save 
+5) npm install -g nodemon       // -g means that the nodemon is install globally
